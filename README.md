@@ -8,5 +8,4 @@ Thanks Tinder for bluring previews clientside ;)
 2. Install the extension in Chrome
 3. Open https://tinder.com/app/likes-you to see the magic
 
-![example][logo]
-[logo]: https://i.imgur.com/Bj4PmwJ.png "Example"
+<img align="left" width="80%" src="https://i.imgur.com/Bj4PmwJ.png">
