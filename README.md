@@ -4,8 +4,8 @@ A chrome extension to disable blur overlay in Tinder 'Who likes you' web page. M
 
 Thanks Tinder for bluring previews clientside ;) 
 
-1. Clone the repo
-2. Install the extension in Chrome
+1. Get the latest release: https://github.com/rursache/TindrUnblur/releases/latest
+2. Install the extension in Chrome (drag the folder in chrome://extensions/ )
 3. Open https://tinder.com/app/likes-you to see the magic
 
 <img align="left" width="80%" src="https://i.imgur.com/Bj4PmwJ.png">
