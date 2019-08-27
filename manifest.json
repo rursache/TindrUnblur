@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "author": "Radu Ursache",
   "name": "Tinder Free - See who likes you",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Disable blur overlay in Tinder 'Who likes you' web page. Makes sense only for free accounts",
   "permissions": [
   	"tabs",
@@ -10,8 +10,7 @@
     "https://tinder.com/app/likes-you"
   ],
   "background": {
-    "scripts": ["content.js"],
-    "persistent": false
+    "scripts": ["content.js"]
   },
   "icons": { 
     "256": "tindr256.png"
