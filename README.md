@@ -1,4 +1,8 @@
 # TindrUnblur - See who likes you for free accounts
+<br>
+
+## NOTE: Tinder stopped blurring images client side making this extension obsolate
+<br>
 
 A chrome extension to disable blur overlay in Tinder 'Who likes you' web page. Makes sense only for free accounts.
 
